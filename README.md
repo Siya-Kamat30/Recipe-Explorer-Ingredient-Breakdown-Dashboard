@@ -2,6 +2,10 @@
 
 An interactive Power BI dashboard that allows users to explore recipes visually and drill into detailed ingredient and nutrition information — designed with a clean, magazine-style UI and built end-to-end from raw data to final insights.
 
+## 🖼️ Dashboard Preview
+
+![Recipe Explorer Dashboard](<img width="1434" height="800" alt="Dashboard_Video" src="https://github.com/user-attachments/assets/7b5e39aa-87bd-4b5f-8a50-198ffd929752" />)
+
 ## Project Motivation
 
 While learning Power BI and data modeling, I wanted to build a project that was:
