@@ -4,7 +4,9 @@ An interactive Power BI dashboard that allows users to explore recipes visually 
 
 ## 🖼️ Dashboard Preview
 
-![Recipe Explorer Dashboard](<img width="1434" height="800" alt="Dashboard_Video" src="https://github.com/user-attachments/assets/7b5e39aa-87bd-4b5f-8a50-198ffd929752" />)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7b5e39aa-87bd-4b5f-8a50-198ffd929752" width="1434" title="Recipe Explorer Dashboard">
+</p>
 
 ## Project Motivation
 
